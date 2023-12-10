@@ -4,7 +4,7 @@ This Java-based banking system is designed to provide users with a virtual banki
 
 ## Features
 
-- **Login:** Users can securely log in using their unique Customer ID and PIN.
+- **Login:** Users can securely log in using their unique Customer ID and PIN number provided in the .txt files.
 - **Deposit and Withdraw:** Perform virtual deposits and withdrawals with ease.
 - **Display Balances:** View real-time account balances for Checking and Savings accounts.
 - **Transfer Between Accounts:** Seamlessly transfer funds between different accounts.
