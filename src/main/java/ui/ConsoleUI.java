@@ -157,7 +157,7 @@ public class ConsoleUI {
         int customerAccountId = Integer.parseInt(accountParts[1]);
         double accountBalance = Double.parseDouble(accountParts[5]);
 
-        System.out.println("accountParts: " + accountBalance);
+        // System.out.println("accountParts: " + accountBalance);
 
         if (customerAccountId == loggedInCustomer.getCustomerId()) {
           balance += accountBalance;
@@ -182,7 +182,7 @@ public class ConsoleUI {
       return;
     }
 
-    System.out.println("Customer Account: " + customerAccount);
+    // System.out.println("Customer Account: " + customerAccount);
 
     // Extract the account ID from the customer's account
     int toAccountId = extractAccountId(customerAccount);
@@ -276,7 +276,7 @@ public class ConsoleUI {
       return;
     }
 
-    System.out.println("Customer Account: " + customerAccount);
+    // System.out.println("Customer Account: " + customerAccount);
 
     // Extract the account ID from the customer's account
     int toAccountId = extractAccountId(customerAccount);
@@ -329,7 +329,7 @@ public class ConsoleUI {
       return;
     }
 
-    System.out.println("Customer Account: " + customerAccount);
+    // System.out.println("Customer Account: " + customerAccount);
 
     // Extract the account ID from the customer's account
     int sourceAccount = extractAccountId(customerAccount);
