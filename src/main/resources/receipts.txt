@@ -1,0 +1,6 @@
+# Bank Name, Bank Address, Customer Name, Customer Address, Account Number, Transaction Amount, Transaction Type, Transaction Date and Time
+YourBank,123 Main St, City, Country,John Doe,123 Main St,1,100.00,Deposit,12-01-21 10:30:00
+YourBank,123 Main St, City, Country,Jane Smith,456 Oak St,2,50.00,Withdrawal,12-01-21 11:15:00
+YourBank,123 Main St, City, Country,Bob Johnson,789 Pine St,5,25.00,Transfer,12-01-21 12:00:00
+YourBank,123 Main St, City, Country,Alice Williams,321 Maple St,3,75.00,Deposit,12-01-21 13:45:00
+YourBank,123 Main St, City, Country,Charlie Brown,555 Cedar St,4,20.00,Withdrawal,12-01-21 14:30:00

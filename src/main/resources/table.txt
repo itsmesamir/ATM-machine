@@ -1,0 +1,23 @@
+# Customer ID, Customer PIN, Customer Name, Customer Email, Customer Phone, Customer Address
+12345,5678,John Doe,john.doe@example.com,123-456-7890,123 Main St
+67890,9876,Jane Smith,jane.smith@example.com,987-654-3210,456 Oak St
+54321,1111,Bob Johnson,bob.johnson@example.com,555-123-4567,789 Pine St
+87654,2222,Alice Williams,alice.williams@example.com,444-789-0123,321 Maple St
+23456,3333,Charlie Brown,charlie.brown@example.com,999-888-7777,555 Cedar St
+
+
+
+# Account ID, Customer ID, Account Number, Account Type, Open Date, Balance
+1,12345,1000,Checking,12-01-21,500.00
+2,12345,2000,Savings,12-01-21,1000.00
+3,67890,3000,Checking,12-01-21,750.00
+4,67890,4000,Savings,12-01-21,1200.00
+5,54321,5000,Savings,12-01-21,300.00
+
+
+# Transaction ID, From Account ID, To Account ID, Amount, Transaction Date and Time
+1,1,2,100.00,12-01-21 10:30:00
+2,3,4,50.00,12-01-21 11:15:00
+3,5,2,25.00,12-01-21 12:00:00
+4,1,3,75.00,12-01-21 13:45:00
+5,4,5,20.00,12-01-21 14:30:00
